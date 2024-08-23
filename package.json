@@ -1,0 +1,10 @@
+{
+  "name": "com.ricardogodoy.transparentwindow",
+  "version": "1.0.0",
+  "description": "Make game window transparent",
+  "displayName": "Transparent Window",
+  "unity": "2022.3",
+  "author": "Ricardo Godoy",
+  "hideInEditor": true,
+  "keywords": ["transparent window"]
+}
